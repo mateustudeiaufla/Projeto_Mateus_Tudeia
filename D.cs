@@ -1,0 +1,23 @@
+using System;
+
+public class D
+{
+	public string D1 { get; set; }
+
+	public int D2 { get; set; }
+
+    public D()
+	{
+		
+	}
+
+	public void MD1()
+	{
+		Console.WriteLine("MD1");
+	}
+	public void MD2()
+	{
+		Console.WriteLine("MD2");
+	}
+
+}
