@@ -19,7 +19,7 @@ public class A
 		Console.WriteLine("MA2");
     }
 
-  public void MA3 {
+  public void MA3() {
     Console.WriteLine("Alteração a classe A partir do clone");
   }
 }
