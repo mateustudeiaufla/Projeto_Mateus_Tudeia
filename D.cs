@@ -19,5 +19,9 @@ public class D
 	{
 		Console.WriteLine("MD2");
 	}
+    public void MD3()
+	{
+		Console.WriteLine("MD3");
+	}
 
 }
