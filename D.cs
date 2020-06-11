@@ -22,6 +22,10 @@ public class D
     public void MD3()
 	{
 		Console.WriteLine("MD3");
+    }
+	public void MD4()
+	{
+		Console.WriteLine("MD4");
 	}
 
 }
