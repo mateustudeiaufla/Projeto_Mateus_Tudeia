@@ -19,4 +19,9 @@ public class B
 	{
 		Console.WriteLine("MB2");
 	}
+
+	public void MB3() 
+	{
+    	Console.WriteLine("MB3");
+  	}
 }

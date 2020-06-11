@@ -17,7 +17,11 @@ public class C
 	}
 	public void MC2()
 	{
-		Console.WriteLine("MC2 ");
-
+		Console.WriteLine("MC2");
 	}
+
+    public void MC3()
+    {
+        Console.WriteLine("MC3");
+    }
 }
